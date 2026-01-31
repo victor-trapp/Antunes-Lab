@@ -1,0 +1,12 @@
+# Secrets / env files
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+.vscode/
+.DS_Store
+node_modules/
+__pycache__/
+*.log
